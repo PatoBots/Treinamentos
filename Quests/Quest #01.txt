@@ -1,0 +1,9 @@
+Quest #01
+
+Levantamento de Requisitos e seleção de componentes
+
+Prazo: Uma Semana.
+
+"A preparação é fundamental para qualquer aventura, e estou confiante de que me preparei da melhor maneira possível. Agora é hora de embarcar em uma nova jornada e ver o que o destino me reserva." - Frodo Bolseiro, O Senhor dos Anéis.
+
+Cada grupo deve fazer uma lista com os componentes necessários para o projeto, a quantidade e qual a função do mesmo. Esta tarefa tem um prazo máximo de conclusão de uma semana, iniciando hoje(12/03/2023) e terminando em 19/03/2023. Evitem deixar para o ultimo dia, por que podem existir revisões desta lista.
